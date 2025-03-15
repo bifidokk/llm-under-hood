@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+*.env
+
+# Storage
+storage/
+annual-reports/
+
+# IDE
+.vscode/
+.idea/ 
